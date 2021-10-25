@@ -17,3 +17,4 @@ here is the changes:
   which is the IK_Algo changed to TRAC_IK
 +sawyer_simulator is the original
 
+my demo video is here btw: https://drive.google.com/file/d/1WcHs4PNcC2_zBVuFIL_E50r0kQ1pmwVg/view?usp=sharing
