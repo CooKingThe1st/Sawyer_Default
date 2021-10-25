@@ -1,0 +1,15 @@
+[submodule "src/sawyer_moveit"]
+	path = src/sawyer_moveit
+	url = git@github.com:CooKingThe1st/sawyer_moveit.git
+[submodule "src/sawyer_robot"]
+	path = src/sawyer_robot
+	url = git@github.com:CooKingThe1st/sawyer_robot.git
+[submodule "src/sawyer_simulator"]
+	path = src/sawyer_simulator
+	url = git@github.com:CooKingThe1st/sawyer_simulator.git
+[submodule "src/intera_sdk"]
+	path = src/intera_sdk
+	url = git@github.com:CooKingThe1st/intera_sdk.git
+[submodule "src/intera_common"]
+	path = src/intera_common
+	url = git@github.com:CooKingThe1st/intera_common.git

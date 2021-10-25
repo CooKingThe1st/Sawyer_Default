@@ -1,0 +1,4 @@
+<launch>
+  <remap from="/joint_states" to="/robot/joint_states"/>
+  <node name="gcp_run_sub" pkg = "planning" type="run_sub"/>
+</launch>
